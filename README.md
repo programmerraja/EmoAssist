@@ -28,6 +28,3 @@ We welcome contributions to EmoAssist! If you would like to contribute, please f
 
 ## License
 EmoAssist is licensed under the MIT License. See the LICENSE file for more details.
-
-## Contact
-For any questions or support, please contact us at support@emoassist.com.
